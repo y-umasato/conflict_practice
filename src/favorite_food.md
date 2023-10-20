@@ -1,3 +1,3 @@
 # favorite food
 
-die Torte
+die Kartoffel
